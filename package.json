@@ -4,7 +4,7 @@
   "description": "A simple and light repository to start coding for react in JavaScript or TypeScript ",
   "main": "src/index.tsx",
   "scripts": {
-    "dev": "webpack-dev-server",
+    "dev": "webpack-dev-server --watch",
     "build": "webpack-cli"
   },
   "repository": {
